@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Áries é um signo de fogo, regido por Marte. São pessoas dinâmicas, corajosas e espontâneas. Possuem forte liderança e iniciativa, sempre prontos para novos desafios.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Touro é um signo de terra, regido por Vênus. São pessoas determinadas, práticas e dedicadas. Valorizam conforto material e estabilidade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Gêmeos é um signo de ar, regido por Mercúrio. São pessoas comunicativas, versáteis e curiosas. Adoram aprender coisas novas e socializar.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Câncer é um signo de água, regido pela Lua. São pessoas sensíveis, emotivas e protetoras. Valorizam família e conexões emocionais.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leão é um signo de fogo, regido pelo Sol. São pessoas carismáticas, criativas e confiantes. Adoram ser o centro das atenções.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virgem é um signo de terra, regido por Mercúrio. São pessoas organizadas, analíticas e perfeccionistas. Valorizam praticidade e eficiência.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra é um signo de ar, regido por Vênus. São pessoas diplomáticas, equilibradas e sociáveis. Buscam harmonia e justiça.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpião é um signo de água, regido por Plutão. São pessoas intensas, determinadas e misteriosas. Possuem grande força interior.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitário é um signo de fogo, regido por Júpiter. São pessoas otimistas, aventureiras e filosóficas. Adoram explorar e aprender.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricórnio é um signo de terra, regido por Saturno. São pessoas ambiciosas, responsáveis e disciplinadas. Valorizam conquistas e status.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquário é um signo de ar, regido por Urano. São pessoas inovadoras, independentes e humanitárias. Valorizam originalidade e progresso.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Peixes é um signo de água, regido por Netuno. São pessoas intuitivas, sonhadoras e compassivas. Possuem grande sensibilidade artística.</descricao>
+    </signo>
+</signos>
